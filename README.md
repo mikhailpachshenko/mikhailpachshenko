@@ -2,12 +2,12 @@
 <h3 align="center">Go-developer from Kazakhstan</h3>
 
 - 🔭 I’m currently working on two pet-projects: 
-[I](https://github.com/mikhailpachshenko/pet-project-sk-final)
-[II](https://github.com/mikhailpachshenko/pet-project-sk-final)
+[first](https://github.com/mikhailpachshenko/pet-project-sk-final)
+[second](https://github.com/mikhailpachshenko/pet-project-sk-final)
 
-- 🌱 I’m currently learning **chi, gin, gorilla, log/slog, stretchr/testify**
+- 🌱 I’m currently learning: **chi, gin, gorilla, log/slog, stretchr/testify**
 
-- 📫 How to reach me **mikhailpachshenko@gmail.com**
+- 📫 How to reach me: **mikhailpachshenko@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
