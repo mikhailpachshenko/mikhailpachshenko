@@ -1,10 +1,13 @@
 <h1 align="center">Hi 👋, I'm Mikhail Pachshenko</h1>
 <h3 align="center">Go-developer from Kazakhstan</h3>
 
-- 🔭 I’m currently working on two pet-projects: 
-[first](https://github.com/mikhailpachshenko/pet-project-sk-final)
-[second](https://github.com/mikhailpachshenko/pet-project-sk-final)
-
+- 🔭 I’m currently working on two pet-projects:
+<p>
+<br/>— [first](https://github.com/mikhailpachshenko/pet-project-sk-final) 
+</p>
+<p>
+<br/>— [second](https://github.com/mikhailpachshenko/pet-project-sk-final)
+</p>
 - 🌱 I’m currently learning: **chi, gin, gorilla, log/slog, stretchr/testify**
 
 - 📫 How to reach me: **mikhailpachshenko@gmail.com**
