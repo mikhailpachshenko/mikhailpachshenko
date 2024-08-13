@@ -11,13 +11,14 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://instagram.com/mikhail_pachshenko" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mikhailpachshenko" height="30" width="40" /></a> 
-<p align="center" >
-    <a href="LINK TO: WHEN CLICKED">
-      <img src="https://github.r2v.ch/codewars?user=mikhailpachshenko" />
-    </a>
 </p>
 </p>
 <hr>
+
+<p align="left" >
+    <a href="LINK TO: WHEN CLICKED">
+      <img src="https://github.r2v.ch/codewars?user=mikhailpachshenko" />
+    </a>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mikhailpachshenko&show_icons=true&locale=en&layout=compact" alt="mikhailpachshenko" /></p>
 
