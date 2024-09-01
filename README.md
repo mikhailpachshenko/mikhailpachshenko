@@ -4,7 +4,7 @@
 - 🔭 I’m currently working on two pet-projects:
 <br/>— [first](https://github.com/mikhailpachshenko/pet-project-sk-final) 
 <br/>— [second](https://github.com/mikhailpachshenko/pet-project-sk-final)
-- 🌱 I’m currently learning: **chi, gin, gorilla, log/slog, stretchr/testify**
+- 🌱 I’m currently learning: **chi, fiber, log/slog, stretchr/testify**
 
 - 📫 How to reach me: **mikhailpachshenko@gmail.com**
 
