@@ -2,8 +2,8 @@
 <h3 align="center">Go-developer from Kazakhstan</h3>
 
 - 🔭 I’m currently working on two pet-projects:
-<br/>— [first](https://github.com/mikhailpachshenko/pet-project-sk-final) 
-<br/>— [second](https://github.com/mikhailpachshenko/pet-project-sk-final)
+<br/>— [sk-project](https://github.com/mikhailpachshenko/pet-project-sk-final) 
+<br/>— [url-shortener](https://github.com/mikhailpachshenko/pet-url-shortener)
 - 🌱 I’m currently learning: **chi, fiber, log/slog, stretchr/testify**
 
 - 📫 How to reach me: **mikhailpachshenko@gmail.com**
