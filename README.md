@@ -24,7 +24,7 @@ to reach me: **mikhailpachshenko@gmail.com**
 
 <p align="left">
     <a href="LINK TO: WHEN CLICKED">
-        <img src="https://github.r2v.ch/codewars?user=mikhailpachshenko" />
+        <img src="https://github.r2v.ch/codewars?user=mikhailpachshenko&top_languages=true&stroke=rgb(200,200,200)&theme=light" />
     </a>
 </p>
 
